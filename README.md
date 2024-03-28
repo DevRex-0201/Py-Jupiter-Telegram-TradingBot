@@ -4,6 +4,10 @@
 
 The Telegram Trading Bot is an advanced, interactive bot designed for Telegram users who are interested in cryptocurrency trading directly via their Telegram accounts. It leverages the power of the Jupiter Aggregator API to provide users with the ability to execute trades, manage trading parameters, and receive real-time market updates without leaving the Telegram interface. This bot aims to simplify and automate the trading process, making it more accessible and efficient for traders of all levels.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Jupiter-Telegram-TradingBot.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Jupiter-Telegram-TradingBot.mp4)
+
 ### Core Features
 
 - **Interactive Trading Setup**: Through a user-friendly interface, traders can easily set their trading parameters such as target profit percentages, stop-loss levels, wallet addresses, and the amount of SOL (Solana) to be used in trades.
