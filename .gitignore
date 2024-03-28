@@ -1,0 +1,5 @@
+.venv
+.env
+user_settings.json
+previous_token_ids.json
+node_modules
